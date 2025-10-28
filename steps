@@ -1,0 +1,5 @@
+git init
+git add . //track all the files
+git commit -am "intital commit"
+git remote add origin //github-repo-link//
+git push origin master
